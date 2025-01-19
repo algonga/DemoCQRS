@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hd+HxIbaR30=",
+  "dgSpecHash": "54ItbkSTO40=",
   "success": true,
-  "projectFilePath": "C:\\Users\\algon\\source\\repos\\Demo_CQRS\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\algon\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],

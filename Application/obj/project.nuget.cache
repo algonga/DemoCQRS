@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cOw5UPcL7Z0=",
+  "dgSpecHash": "Ghvky2nytqw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\algon\\source\\repos\\Demo_CQRS\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\algon\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\algon\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
