@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hd+HxIbaR30=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\algon\\source\\repos\\Demo_CQRS\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\algon\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
