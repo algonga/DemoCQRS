@@ -16,7 +16,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Abstractions\" />
 	  <Folder Include="Behaviour\" />
 	  <Folder Include="Alumnos\" />
 	  <Folder Include="Asignaturas\" />
