@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lfne3tdDLr0=",
+  "dgSpecHash": "py+LRU8yk28=",
   "success": true,
   "projectFilePath": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\algon\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\algon\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\algon\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],
   "logs": []

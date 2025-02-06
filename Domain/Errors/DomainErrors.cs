@@ -15,6 +15,13 @@ public static class DomainErrors
             "Email format is invalid");
     }
 
+    public static class Alumno
+    {
+        public static readonly Error EmailAlreadyInUse = new(
+            "Member.EmailAlreadyInUse",
+            "The specified email is already in use");
+    }
+
     public static class LastName
     {
         public static readonly Error Empty = new(

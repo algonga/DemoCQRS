@@ -16,9 +16,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Folder Include="Asignaturas\Commands\" />
 	  <Folder Include="Behaviour\" />
 	  <Folder Include="Alumnos\" />
-	  <Folder Include="Asignaturas\" />
 	</ItemGroup>
 
 </Project>
