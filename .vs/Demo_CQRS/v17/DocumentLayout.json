@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD3A674A-F114-4B04-97CF-1F8AF48D521F}|Application\\Application.csproj|c:\\users\\algon\\source\\repos\\cleanarchitecturecqrs\\application\\asignaturas\\commands\\createalumno\\createalumnocommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3A674A-F114-4B04-97CF-1F8AF48D521F}|Application\\Application.csproj|solutionrelative:application\\asignaturas\\commands\\createalumno\\createalumnocommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3A674A-F114-4B04-97CF-1F8AF48D521F}|Application\\Application.csproj|c:\\users\\algon\\source\\repos\\cleanarchitecturecqrs\\application\\asignaturas\\commands\\createalumno\\createalumnocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3A674A-F114-4B04-97CF-1F8AF48D521F}|Application\\Application.csproj|solutionrelative:application\\asignaturas\\commands\\createalumno\\createalumnocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3A674A-F114-4B04-97CF-1F8AF48D521F}|Application\\Application.csproj|c:\\users\\algon\\source\\repos\\cleanarchitecturecqrs\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD3A674A-F114-4B04-97CF-1F8AF48D521F}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{753AA918-8AAB-4482-81C1-E75AFCC45A95}|Persistence\\Persistence.csproj|c:\\users\\algon\\source\\repos\\cleanarchitecturecqrs\\persistence\\repository\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753AA918-8AAB-4482-81C1-E75AFCC45A95}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repository\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,11 +47,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateAlumnoCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Commands\\CreateAlumno\\CreateAlumnoCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Asignaturas\\Commands\\CreateAlumno\\CreateAlumnoCommandValidator.cs",
+              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Commands\\CreateAlumno\\CreateAlumnoCommandValidator.cs",
+              "RelativeToolTip": "Application\\Asignaturas\\Commands\\CreateAlumno\\CreateAlumnoCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:45:56.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateAlumnoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Commands\\CreateAlumno\\CreateAlumnoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Asignaturas\\Commands\\CreateAlumno\\CreateAlumnoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Commands\\CreateAlumno\\CreateAlumnoCommandHandler.cs",
+              "RelativeToolTip": "Application\\Asignaturas\\Commands\\CreateAlumno\\CreateAlumnoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:45:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T08:45:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AlumnoRepository.cs",
               "DocumentMoniker": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Persistence\\Repository\\AlumnoRepository.cs",
               "RelativeDocumentMoniker": "Persistence\\Repository\\AlumnoRepository.cs",
-              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Persistence\\Repository\\AlumnoRepository.cs*",
-              "RelativeToolTip": "Persistence\\Repository\\AlumnoRepository.cs*",
+              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Persistence\\Repository\\AlumnoRepository.cs",
+              "RelativeToolTip": "Persistence\\Repository\\AlumnoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T06:37:04.648Z",
@@ -47,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AlumnoResponse.cs",
               "DocumentMoniker": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Queries\\GetAlumnoById\\AlumnoResponse.cs",
               "RelativeDocumentMoniker": "Application\\Asignaturas\\Queries\\GetAlumnoById\\AlumnoResponse.cs",
@@ -55,12 +106,11 @@
               "RelativeToolTip": "Application\\Asignaturas\\Queries\\GetAlumnoById\\AlumnoResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T06:30:30.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T06:30:30.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "GetAlumnoByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQueryHandler.cs",
@@ -68,34 +118,31 @@
               "RelativeToolTip": "Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T06:30:21.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T06:30:21.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GetAlumnoByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQuery.cs",
               "RelativeDocumentMoniker": "Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQuery.cs",
-              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQuery.cs*",
-              "RelativeToolTip": "Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQuery.cs*",
+              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQuery.cs",
+              "RelativeToolTip": "Application\\Asignaturas\\Queries\\GetAlumnoById\\GetAlumnoByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T06:30:06.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T06:30:06.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AlumnoController.cs",
               "DocumentMoniker": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Presentation\\Controllers\\AlumnoController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\AlumnoController.cs",
-              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Presentation\\Controllers\\AlumnoController.cs*",
-              "RelativeToolTip": "Presentation\\Controllers\\AlumnoController.cs*",
+              "ToolTip": "C:\\Users\\algon\\source\\repos\\CleanArchitectureCQRS\\Presentation\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AlumnoController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAADwvyIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T06:23:21.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T06:23:21.445Z"
             }
           ]
         }
