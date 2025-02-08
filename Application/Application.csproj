@@ -17,7 +17,7 @@
 
 	<ItemGroup>
 	  <Folder Include="Behaviour\" />
-	  <Folder Include="Alumnos\" />
+	  <Folder Include="Asignaturas\" />
 	</ItemGroup>
 
 </Project>

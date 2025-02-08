@@ -15,10 +15,10 @@ internal sealed class CreateAlumnoCommandHandler : ICommandHandler<CreateAlumnoC
     private readonly IUnitOfWork _unitOfWork;
 
     public CreateAlumnoCommandHandler(
-        IAlumnoRepository memberRepository,
+        IAlumnoRepository alumnoRepository,
         IUnitOfWork unitOfWork)
     {
-        _alumnoRepository = memberRepository;
+        _alumnoRepository = alumnoRepository;
         _unitOfWork = unitOfWork;
     }
     public async Task<Result<Guid>> Handle(CreateAlumnoCommand request, CancellationToken cancellationToken)
@@ -32,10 +32,16 @@ internal sealed class CreateAlumnoCommandHandler : ICommandHandler<CreateAlumnoC
             return Result.Failure<Guid>(DomainErrors.Alumno.EmailAlreadyInUse);
         }
 
-        var member = Alumno.Create(
+        var alumno = Alumno.Create(
             Guid.NewGuid(),
             emailResult.Value,
             firstNameResult.Value,
             lastNameResult.Value);
+
+        _alumnoRepository.AddAlumno(alumno);
+
+        await _unitOfWork.SaveChangesAsync(cancellationToken);
+
+        return alumno.Id;
     }
 }

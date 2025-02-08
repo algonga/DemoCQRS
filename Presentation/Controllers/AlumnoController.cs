@@ -1,4 +1,5 @@
-﻿using Application.Asignaturas.Queries.GetAlumnoById;
+﻿using Application.Asignaturas.Commands.CreateAlumno;
+using Application.Asignaturas.Queries.GetAlumnoById;
 using Domain.Shared;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
